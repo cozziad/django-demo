@@ -12,4 +12,4 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-/demosite/demosite/settings.py
+demosite/demosite/settings.py
